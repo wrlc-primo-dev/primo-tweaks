@@ -1,0 +1,12 @@
+/*
+ * Wraps institution names instead of truncating on Primo facet sidebar
+ */
+
+div.md-chip.animate-opacity-and-scale.facet-element-marker-institution strong {
+    white-space: normal;
+    overflow: visible;
+
+}
+div.md-chip.animate-opacity-and-scale.facet-element-marker-institution {
+        height: auto;
+}
