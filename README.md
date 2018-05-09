@@ -1,6 +1,6 @@
-# CSS Tweaks for Primo
+# UI Tweaks for Primo
 
-A menu of CSS tweaks to the primo UI. Pick and chose modifications to add to your view.
+A menu of CSS and JS tweaks to the primo UI. Pick and chose modifications to add to your view.
 
 ## Contributing
 
